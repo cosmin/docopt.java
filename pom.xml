@@ -19,9 +19,9 @@
   </parent>
 
   <scm>
-    <connection>scm:git:git@github.com:docopt/docopt.java.git</connection>
-    <developerConnection>scm:git:git@github.com:docopt/docopt.java.git</developerConnection>
-    <url>https://github.com/docopt/docopt.java</url>
+    <connection>scm:git:git@github.com:cosmin/docopt.java.git</connection>
+    <developerConnection>scm:git:git@github.com:cosmin/docopt.java.git</developerConnection>
+    <url>https://github.com/cosmin/docopt.java</url>
   </scm>
 
   <licenses>
